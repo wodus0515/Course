@@ -1,12 +1,13 @@
 #' Reverse
-#'
-#' Reverse a vector.
-#'
-#' @param x 
-#'
+#' 
+#' Reverse returns a copy of a vector whose elements are in
+#' the reverse order. The end 
+#' 
+#' @param x
+#'   
 #' @return a vector
 #' @export
-#'
+#' 
 #' @examples
 #' reverse(1:10)
 reverse <- function(x) {
